@@ -1,6 +1,3 @@
-# College_project
-* [Random Password Generator](#Random-password-generator)
-* [Tic Tac Toe](#tic-tac-toe)
 ## Random Password Generator
 #### PROBLEM STATEMENT (Random Password)
 
